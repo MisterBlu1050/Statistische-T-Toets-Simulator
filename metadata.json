@@ -1,0 +1,5 @@
+{
+  "name": "T-Test Simulator",
+  "description": "An interactive statistical visualization tool for T-Tests. It visualizes the relationship between the Null Hypothesis (H0) and Alternative Hypothesis (H1), allowing users to explore concepts like Alpha, Beta, Power, and Effect Size in real-time.",
+  "requestFramePermissions": []
+}
